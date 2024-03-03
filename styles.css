@@ -68,9 +68,3 @@ body{
 
 }
 
-@media screen {
-   min-width: 375px; 
-}
-@media screen {
-max-width: 1440px;    
-}
